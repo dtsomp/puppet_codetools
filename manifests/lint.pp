@@ -3,7 +3,8 @@
 class puppet_codetools::lint
 {
     package{'puppet-lint':
-        ensure   => installed,
+        ensure   => installed
         provider => gem,
+
         }
 }

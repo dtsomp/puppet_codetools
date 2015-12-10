@@ -4,4 +4,3 @@ notifications:
     - dtsomp@gmail.com
 env:
   - PUPPET_VERSION=3.8.4
-  - PUPPET_VERSION=2.7.3
