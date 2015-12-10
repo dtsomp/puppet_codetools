@@ -5,4 +5,5 @@ class puppet_codetools
 {
     include puppet_codetools::lint
     include puppet_codetools::rspec
+        
 }
