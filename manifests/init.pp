@@ -6,4 +6,5 @@ class puppet_codetools
     include puppet_codetools::lint
     include puppet_codetools::rspec
     include puppet_codetools::vim-puppet
+    include puppet_codetools::puppet-module
 }
